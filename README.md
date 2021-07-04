@@ -1,5 +1,5 @@
 # Taxi service
-This proect is custom implementation of car manager which allows you to create/read/update/delete car manufacturers, cars related to manufacturer, drivers of cars
+This project is custom implementation of car manager which allows you to create/read/update/delete car manufacturers, cars related to manufacturer, drivers of cars
 
 ## Launch
 1. Download this project to your local IDE
