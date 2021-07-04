@@ -4,7 +4,7 @@ This project is custom implementation of car manager which allows you to create/
 ## Launch
 1. Download this project to your local IDE
 2. In MySQL Workbrench create new connection with your username / password to MySQL -> create new local database (schema)
-3. Configure connection to your database in ConnectionUtil class (packages java->taxi->util): <br>
+3. Configure connection to your database in src/main/java/taxi/util/ConnectionUtil.java: <br>
     URL TO YOUR LOCAL DB - jdbc:mysql://localhost:3306/<b>database_name</b>?useLegacyDatetimeCode=false&serverTimezone=UTC <br>
     YOUR USERNAME - MySQL username <br>
     YOUR PASSWORD - MySQL password <br>
