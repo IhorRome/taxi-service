@@ -22,3 +22,4 @@ This project is custom implementation of car manager which allows you to create/
 - Servlet
 - JSP
 - JSTL
+- Logger
