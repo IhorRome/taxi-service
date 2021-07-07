@@ -1,5 +1,5 @@
 # Taxi service
-This project is custom implementation of car manager which allows you to create/read/update/delete car manufacturers, cars related to manufacturer and drivers of cars
+This project is written using N-tier architecture and it is a custom implementation of car management system which allows you to create/read/update/delete car manufacturers, cars related to manufacturer and drivers of cars. As user you will be able to register yourself (or anyone else) as driver and after that - authenticate using login/password to further features of this project. Also all information about your doings will be logged in a local file on your computer (search logs/app.log in directory with Tomcat to find it). 
 
 ## Launch
 1. Download this project to your local IDE
@@ -11,7 +11,7 @@ This project is custom implementation of car manager which allows you to create/
     JDBC_DRIVER - com.mysql.cj.jdbc.Driver <br>
 4. Configure TomCat Local server (Add New Configuration -> TomCat -> Local -> Fix -> taxi-service:war exploded -> OK
 5. Run your project
-6. In browser you will see login page with possibility to register a new user - click register
+6. In browser you will see login page with possibility to register a new user(drier) - click register
 7. Fill in empty fields on this page -> click Submit
 8. Login with your username and password, enjoy!
 
