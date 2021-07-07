@@ -1,5 +1,5 @@
 # Taxi service
-This project is written using N-tier architecture and it is a custom implementation of car management system which allows you to create/read/update/delete car manufacturers, cars related to manufacturer and drivers of cars. As user you will be able to register yourself (or anyone else) as driver and after that - authenticate using login/password to further features of this project. Also all information about your doings will be logged in a local file on your computer (search logs/app.log in directory with Tomcat to find it). 
+This project is written using N-tier architecture and it is a custom implementation of car management system which allows you to create/read/update/delete car manufacturers, cars related to manufacturer and drivers of cars. As user you will be able to register yourself (or anyone else) as driver and after that - authenticate using login/password gaining access to further features of this project. Also all information about your doings will be logged in a local file on your computer (search logs/app.log in directory with Tomcat to find it). 
 
 ## Launch
 1. Download this project to your local IDE
